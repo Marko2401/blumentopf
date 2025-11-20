@@ -1,3 +1,0 @@
-<h1> Welcome to our super awesome Website </h1>
-<p> Moritz is here <p>
-
